@@ -16,4 +16,4 @@ spec:
         - name: container1
           image: utkarshpratapsingh/mydetails
           ports:
-            - containerPort: 4000
+            - containerPort: 80
